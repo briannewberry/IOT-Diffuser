@@ -2,8 +2,8 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-#define WIFI_SSID "Will trade WiFi for Chegg"
-#define WIFI_PASS "onecall6969"
+#define WIFI_SSID "your wifi ssid"
+#define WIFI_PASS "your wifi password"
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
